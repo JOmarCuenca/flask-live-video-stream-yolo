@@ -1,0 +1,3 @@
+[submodule "social_distancing"]
+	path = social_distancing
+	url = https://github.com/JOmarCuenca/social-distancing-detector.git
