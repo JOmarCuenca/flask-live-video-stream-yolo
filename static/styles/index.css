@@ -1,0 +1,10 @@
+.CenterElements {
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CenterElements > img {
+    width: max(50vw,512px);
+}

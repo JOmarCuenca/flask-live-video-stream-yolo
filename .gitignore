@@ -1,0 +1,16 @@
+# Python Stuff
+**/__pycache__/**
+env/
+
+# Img Files
+processedFrames/
+*.jpg
+
+# Common Video Formats
+*.mp4
+*.avi
+*.mkv
+*.webm
+
+# VSCode
+.vscode
